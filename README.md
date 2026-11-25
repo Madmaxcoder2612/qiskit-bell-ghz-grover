@@ -1,9 +1,9 @@
 # 01 · Qiskit first steps: Bell, GHZ and Grover
 
-![CI](https://github.com/Madmaxcoder2612/qiskit-bell-ghz-grover/actions/workflows/ci.yml/badge.svg)
-![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-simulation%20only-orange)
+[![CI](https://github.com/Madmaxcoder2612/qiskit-bell-ghz-grover/actions/workflows/ci.yml/badge.svg)](https://github.com/Madmaxcoder2612/qiskit-bell-ghz-grover/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Status](https://img.shields.io/badge/status-simulation%20only-orange)](#limitations)
 
 Three small quantum circuits built in [Qiskit](https://www.ibm.com/quantum/qiskit), checked against theory with tests, and run on a simulator with and without a simple noise model. It is a first project for learning the basics: superposition, entanglement and amplitude amplification.
 
